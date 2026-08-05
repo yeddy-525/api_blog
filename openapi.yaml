@@ -4,7 +4,7 @@ info:
   version: 1.0.0
   description: 네이버 검색광고 키워드 도구에서 월간 검색량과 연관 키워드를 조회합니다.
 servers:
-  - url: https://YOUR-VERCEL-PROJECT.vercel.app
+  - url: https://api-blog-five-phi.vercel.app
 paths:
   /api/keywords:
     post:
