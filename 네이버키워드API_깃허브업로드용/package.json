@@ -1,9 +1,0 @@
-{
-  "name": "naver-keyword-gpt-action",
-  "version": "1.0.0",
-  "private": true,
-  "description": "GPT Action relay for NAVER SearchAd keyword tool",
-  "engines": {
-    "node": ">=18"
-  }
-}
